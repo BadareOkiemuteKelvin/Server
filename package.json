@@ -4,7 +4,7 @@
   "description": "riders app backend ",
   "main": "index.js",
   "scripts": {
-    "server": "nodemon index.js"
+    "server": "nodemon ./api/index.js"
   },
   "repository": {
     "type": "git",
