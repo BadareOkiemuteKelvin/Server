@@ -1,0 +1,22 @@
+{
+  "name": "glopilotserver",
+  "version": "1.0.0",
+  "description": "riders app backend ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BadareOkiemuteKelvin/Server.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "BadareOkiemuteKelvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BadareOkiemuteKelvin/Server/issues"
+  },
+  "homepage": "https://github.com/BadareOkiemuteKelvin/Server#readme"
+}
