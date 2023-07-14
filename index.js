@@ -7,7 +7,7 @@ app.use(cors({"Access-Control-Expose-Headers": "Content-Range"}));
 
 
 app.get("/app",(req,res)=>{
-    res.send("Server is Live")
+    res.send("Server is Live and update")
 })
 
 
